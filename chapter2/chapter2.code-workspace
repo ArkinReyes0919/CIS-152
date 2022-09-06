@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "chapter2",
+			"path": "."
+		},
+		{
+			"name": "chapter3",
+			"path": "../chapter3"
+		},
+		{
+			"name": "chapter1",
+			"path": "../chapter1"
+		},
+		{
+			"name": "CIS-152",
+			"path": "../../../Documents/GitHub/CIS-152/CIS-152"
+		}
+	],
+	"settings": {}
+}
