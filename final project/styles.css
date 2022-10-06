@@ -1,0 +1,45 @@
+/*puts that grey area around web page*/
+body {
+  background-color: grey;
+  padding: 0px 0px 0px 0px
+}
+/*create the webpage*/
+main {
+  background-color: white; 
+  display: block; 
+  overflow: auto; 
+  background-image: linear-gradient(to bottom, #fff, #90c7e3);
+  padding: 0px 0px 0px 0px; 
+
+}
+
+/*body */
+.introduction-h1 {
+  margin-left: 10px;
+}
+.introduction-p {
+  margin-left: 10px;
+}
+.introduction-h2 {
+  margin-right: 10px;
+}
+.introduction-p2 {
+  margin-right: 10px;
+}
+div.c {
+  text-align: right;
+} 
+video {
+  padding: 20px 20px 0px 0px
+ }
+
+div.e {
+  padding: 0px 10px 0px 0px
+}
+div.g {
+  padding: 3px 10px 10px 10px
+}
+
+
+
+
