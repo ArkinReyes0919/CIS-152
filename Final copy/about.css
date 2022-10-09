@@ -331,10 +331,6 @@
   .div-flex {
      display:flex; 
   }
-  .introduction-p {
-    margin-right: 60px;
-    margin-bottom: 10px;
-  }
   .introduction-h2 {
     margin-right: 10px;
   }
@@ -364,8 +360,21 @@
     padding: 20px 20px 0px 0px
    }
    div.x {
-margin-right: 25px;
-   }
+    margin-right: 0px;
+   margin-top: 50px;
+margin-left: 50px;
+  }
+  div.z {
+    margin-right: 30px;
+   margin-top: 50px;
+  margin-left: 5px;
+  }
+  div.j {
+    margin-right: 0px;
+   margin-top: 0px;
+margin-left: 5px;
+margin-bottom: 0px;
+  }
    @media (max-width: 500px) {
     .div-flex {
       display: flex;
